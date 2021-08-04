@@ -1,0 +1,26 @@
+/*profile*/
+
+// profile__container
+.profile__container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+//profile card
+.profile__card {
+    border: none;
+}
+
+//profile card body
+.profile__card__body {
+    display: flex;
+    flex-direction: column;
+}
+
+//profile button
+.profile__buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

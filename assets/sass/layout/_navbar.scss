@@ -1,0 +1,21 @@
+/*navbar*/
+
+//navbar logo
+.navbar__logo-up {
+    position: absolute;
+    top: 0;
+    left: 6em;
+}
+
+//navbar nav
+.navbar-nav {
+    li {
+        padding: 0 1em;
+    }
+}
+
+//navbar toggler
+.navbar-toggler {
+    color: $black !important;
+    border: none;
+}
